@@ -1,2 +1,2 @@
-# Avghtix-Link
-[Avghtix.Link]&lt;—My Website
+# Avghtix.Link
+Personal Website

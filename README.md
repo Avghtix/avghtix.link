@@ -1,2 +1,2 @@
-# Avghtix.Link
+# Avghtix's Website
 Personal Website
